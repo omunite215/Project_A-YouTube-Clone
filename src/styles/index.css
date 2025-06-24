@@ -5,7 +5,7 @@ body {
   box-sizing: border-box;
 }
 
-a {
+Link {
   text-decoration: none;
   color: black;
 }
